@@ -20,7 +20,7 @@ This project combines sleek modern UI with fully functional logic for basic arit
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the live calculator](https://your-live-demo-link.com)  
+🔗 [Click here to try the live calculator](https://modernbeautiful-calculator.netlify.app/)  
 *(Replace this link with your own if hosted on GitHub Pages or Netlify)*
 
 ---
@@ -39,5 +39,5 @@ This project is licensed under the MIT License.
 💬 Connect With Me
 📧 Email: abhi.mybusiness8@gmail.com
 🐙 GitHub: @abhinandan169
-📱 LinkedIn: 
+📱 LinkedIn: https://www.linkedin.com/in/abhinandan-kumar-864a77332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm02ihl4%2FTqeaCNWqJSW8Dw%3D%3D
 
