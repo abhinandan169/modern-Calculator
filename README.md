@@ -4,7 +4,7 @@
 A **simple yet stunning calculator** built using **pure HTML, CSS, and JavaScript**.  
 This project combines sleek modern UI with fully functional logic for basic arithmetic operations.
 
-![Calculator Screenshot]([Uploading image.png…]
+![Calculator Screenshot]([<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5c282406-8d43-435d-a633-9c6e5f95287d" /># modern-Calculator]
 ) <!-- Replace with your image path or URL -->
 
 ---
