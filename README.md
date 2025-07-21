@@ -34,8 +34,6 @@ This project combines sleek modern UI with fully functional logic for basic arit
 
 ---
 
-📜 License
-This project is licensed under the MIT License.
 
 💬 Connect With Me
 📧 Email: abhi.mybusiness8@gmail.com
